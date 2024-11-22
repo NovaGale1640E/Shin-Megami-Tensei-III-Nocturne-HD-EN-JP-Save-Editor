@@ -2,8 +2,18 @@
 Shin Megami Tensei III Nocturne HD EN &amp; JP Save Editor with Python
 Gbatemp Thread link: https://gbatemp.net/threads/shin-megami-tensei-iii-nocturne-hd-remaster-save-editor.591669/
 
-Forked from above to work with PC ver 1.0.4
+## Notes and Credits
+Forked from [original](https://github.com/Amuyea-gbatemp/Shin-Megami-Tensei-III-Nocturne-HD-EN-JP-Save-Editor) to work with PC ver 1.0.4
 
+Per the original, requires [this](https://github.com/zarroboogs/smt3hdpc.saveutil) save decrypter to work on PC
+
+It has been tested on PC,
+The original was tested for Nintendo Switch,
+& It remains Untested on PS4 SaveData.
+
+*Please make multiple backups of your save data!*
+
+## Features
 Works with Save Slot 1 to 20
 
 Features
@@ -17,10 +27,11 @@ Features
 * Items
 * Magatama
 
+## Requirements
+refer to requirments.txt
+
+## Usages
 Run the script
 ```python Shin.py```
 
-It been tested on PC. 
-Untested on PS4 or Nintendo Switch SaveData.
 
-Please make multiple backups of your save data!
